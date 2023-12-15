@@ -38,4 +38,4 @@ encapsulating our developmental journey.
 1. Project Presentation PPT. [Access From Here](https://github.com/sureshravuris/HR-Portal-Final-Project/blob/master/HR%20App%20Presentation%20-%20Final.pptx)
 
 2. Project Demo video url. [Watch the video here](https://youtu.be/EdBM9d8RQUE)
-3. Project Final Report. [Access From Here](
+3. Project Final Report. [Access From Here](https://github.com/sureshravuris/HR-Portal-Final-Project/blob/master/_Enterprise%20HR%20Portal%20Final%20Report.pdf)
