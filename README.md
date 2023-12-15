@@ -34,6 +34,8 @@ encapsulating our developmental journey.
 
 
 
-Project presentation ppt. [Read From Here] (
+## Project Deliverables:
+1. Project Presentation PPT. [Access From Here](https://github.com/sureshravuris/HR-Portal-Final-Project/blob/master/HR%20App%20Presentation%20-%20Final.pptx)
 
-Project Demo video url. [Watch the video here](https://youtu.be/EdBM9d8RQUE)
+2. Project Demo video url. [Watch the video here](https://youtu.be/EdBM9d8RQUE)
+3. Project Final Report. [Access From Here](
