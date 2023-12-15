@@ -34,5 +34,6 @@ encapsulating our developmental journey.
 
 
 
-Project presentation ppt 
-Project Demo video url or file 
+Project presentation ppt. [Read From Here] (
+
+Project Demo video url. [Watch the video here](https://youtu.be/EdBM9d8RQUE)
