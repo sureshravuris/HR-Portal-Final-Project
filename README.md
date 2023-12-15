@@ -9,7 +9,7 @@ and view enterprise employee data. Role-based access, powered by SSO, will ensur
 restricted and appropriate access levels, emphasizing our unwavering commitment to
 data privacy.
 
-Outlining our roadmap, we've delineated clear milestones:
+### Outlining our roadmap, we've delineated clear milestones:
 - **October 10th**: Backend Development Completion, ensuring our system's robust
 foundation.
 
@@ -35,7 +35,8 @@ encapsulating our developmental journey.
 
 
 ## Project Deliverables:
-1. Project Presentation PPT. [Access From Here](https://github.com/sureshravuris/HR-Portal-Final-Project/blob/master/HR%20App%20Presentation%20-%20Final.pptx)
+1. Project Final PPT. [Access From Here](https://github.com/sureshravuris/HR-Portal-Final-Project/blob/master/HR%20App%20Presentation%20-%20Final.pptx)
 
-2. Project Demo video url. [Watch the video here](https://youtu.be/qrFbifj3nyA)
-3. Project Final Report. [Access From Here](https://github.com/sureshravuris/HR-Portal-Final-Project/blob/master/_Enterprise%20HR%20Portal%20Final%20Report.pdf)
+2. Project Final Report. [Access From Here](https://github.com/sureshravuris/HR-Portal-Final-Project/blob/master/_Enterprise%20HR%20Portal%20Final%20Report.pdf)
+3. Project Presentation by Team. [Watch From Here](https://youtu.be/in55wykMRBY)
+4. Project Demo video url. [Watch the Live Demonstration Here](https://youtu.be/qrFbifj3nyA)
